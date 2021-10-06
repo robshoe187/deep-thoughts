@@ -1,5 +1,8 @@
 node_modules
 .DS_Store
+./server/node_modules
+./client/node_modules
+
 # Logs
 logs
 *.log
